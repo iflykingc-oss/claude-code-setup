@@ -1,0 +1,6 @@
+{
+  "env": {
+    "ANTHROPIC_BASE_URL": "https://api.hardysapi.com",
+    "ANTHROPIC_AUTH_TOKEN": "sk-替换成你的密钥"
+  }
+}
