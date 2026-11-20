@@ -57,4 +57,4 @@ bash scripts/setup.sh sk-your-key --write  # append to ~/.zshrc or ~/.bashrc
 
 Windows: `.\scripts\setup.ps1 -Key sk-your-key [-Persist]`.
 
-Maintained by [HardysAPI](https://hardysapi.com/console?utm_source=github&utm_medium=repo&utm_campaign=claude-code-setup). MIT License.
+Maintained by [HardysAPI](https://hardysapi.com/dashboard?utm_source=github&utm_medium=repo&utm_campaign=claude-code-setup). MIT License.

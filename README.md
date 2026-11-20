@@ -4,7 +4,7 @@
 
 仓库里是可直接复制的环境变量、`settings.json` 模板和排错表。
 
-> 本仓库由 [HardysAPI](https://hardysapi.com/console?utm_source=github&utm_medium=repo&utm_campaign=claude-code-setup) 维护。你也可以用任何兼容 Anthropic 协议的网关，改掉 `ANTHROPIC_BASE_URL` 即可。
+> 本仓库由 [HardysAPI](https://hardysapi.com/dashboard?utm_source=github&utm_medium=repo&utm_campaign=claude-code-setup) 维护。你也可以用任何兼容 Anthropic 协议的网关，改掉 `ANTHROPIC_BASE_URL` 即可。
 
 ## 三步接入
 
@@ -81,7 +81,7 @@ Windows 见 [`scripts/setup.ps1`](scripts/setup.ps1)。
 
 - 1 元 = 1 美元额度，按 token 扣费，最低充值 10 元。
 - 价格公开可查：`https://hardysapi.com/api/pricing`。
-- 注册：<https://hardysapi.com/console?utm_source=github&utm_medium=repo&utm_campaign=claude-code-setup>
+- 注册：<https://hardysapi.com/dashboard?utm_source=github&utm_medium=repo&utm_campaign=claude-code-setup>
 
 ## License
 
