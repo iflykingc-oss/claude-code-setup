@@ -5,7 +5,7 @@
 #   bash scripts/setup.sh sk-你的密钥 --write  # 追加到 shell 配置文件
 set -euo pipefail
 
-BASE_URL="${ANTHROPIC_BASE_URL:-https://api.hardysapi.com}"
+BASE_URL="${GATEWAY_URL:-https://api.hardysapi.com}"
 KEY="${1:-}"
 WRITE="${2:-}"
 
